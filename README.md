@@ -1,0 +1,2 @@
+# milkyway.panda
+self repository
